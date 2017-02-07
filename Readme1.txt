@@ -6,4 +6,4 @@ Proceso:
 	git commit -am 'Mensaje'
 2-subo cambios al servidor
 	git push nombre rama
-
+Un nuevo cambio
